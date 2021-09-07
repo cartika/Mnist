@@ -1,2 +1,2 @@
 # Mnist
-Kaggle Mnist
+Kaggle Mnist dataset
